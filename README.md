@@ -9,4 +9,4 @@ The data has been split into two group:
 ### Dependencies
 * Pandas, numpy, matplotlib, scikit-learn and python
 
-Accuracy score: we got an accuracy score of 81%
+**Accuracy score:**  we got an accuracy score of 81%
